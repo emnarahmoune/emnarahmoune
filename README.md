@@ -1,14 +1,13 @@
 <h1 align="center"><b>Hey, I'm Rahmoune Emna </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome!+I'm+Rahmoune+Emna;Business+Computing+Student;Web+and+Mobile+Developer;Always+Learning+New+Things..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome!+I'm+Rahmoune+Emna;Data Science+IA+Student;Web+and+Mobile+Developer;Always+Learning+New+Things..<3"></a>
 </p>
 
 ---
 
 <!-- About me -->
 ## 👨‍💻 About Me
-🎓 **Business Computing** student at ESSECT, with a strong  passion for **web development**, and **mobile development**.  
-
+🎓 Diplômée en Business Computing (E-Business) | Étudiante en Data Science & IA à CODA Orléans | BI & Data Analytics, with a strong foundation in **Data Science** and a passion for **Artificial Intelligence**, **web development**, and **mobile development**.  
  
 🎯 **Goal**: To become an **AI Engineer** and **Entrepreneur**.  
   
